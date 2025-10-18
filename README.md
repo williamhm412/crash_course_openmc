@@ -1,4 +1,4 @@
-# crash_course_openmc
+# Crash Course Openmc
 This contains powerpoints and example code for crash course openmc.
 
 - Download powerpoints from the github website onto your windows machine.
