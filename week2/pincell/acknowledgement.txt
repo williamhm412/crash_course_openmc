@@ -1,0 +1,2 @@
+code for pincells taken mostly from
+https://github.com/openmc-dev/openmc/wiki/Example-Jupyter-Notebooks
