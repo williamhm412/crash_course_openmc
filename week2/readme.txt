@@ -1,5 +1,10 @@
+workbook:
 
+This is the main learning tool for this week.
 
+The workbook is designed to demonstrate the critical skills for this week and then stage challanges for the user to apply those skills.
+We will walk through the workbook as a group.
+The challenges will be done time-permitting.
 
 -------------------------
 Pincells:
