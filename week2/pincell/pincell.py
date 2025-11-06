@@ -1,4 +1,4 @@
-import openmc
+import openmc # type: ignore
 
 uo2 = openmc.Material(1, "uo2")
 mat = openmc.Material()
