@@ -13,7 +13,7 @@ git clone https://github.com/williamhm412/crash_course_openmc.git
 cd crash_course_openmc
 ```
 
-Follow the Week 1 slides to set up OpenMC and the nuclear data used in the course. The Windows instructions use Ubuntu through WSL. For Linux and macOS setup, see the [OpenMC installation guide](https://docs.openmc.org/en/stable/usersguide/install.html).
+Follow the Week 0 slides to set up OpenMC and the nuclear data used in the course. The Windows instructions use Ubuntu through WSL. For Linux and macOS setup, see the [OpenMC installation guide](https://docs.openmc.org/en/stable/usersguide/install.html).
 
 Once OpenMC is installed, use the [post-install guide](https://github.com/williamhm412/crash_course_openmc/blob/main/week1/run_after_install_guide.md) to open a notebook in Jupyter or VS Code.
 
